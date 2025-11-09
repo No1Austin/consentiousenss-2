@@ -15,3 +15,15 @@
 /dist
 /build
 *.log
+# dependencies
+node_modules/
+
+# vercel & tooling
+.vercel/
+.vscode/
+.cache/
+
+# env
+.env.local
+
+node_modules/
