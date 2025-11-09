@@ -1,0 +1,17 @@
+# secrets & credentials
+.env
+*.key
+*.pem
+*.p12
+*.cer
+
+# local config & tokens
+*.secret
+*.passwd
+*.token
+*.DS_Store
+
+# build/output
+/dist
+/build
+*.log
